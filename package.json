@@ -1,0 +1,12 @@
+{
+    "name": "HelloNodeJS",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Hugo de la Mora",
+    "contributors": [],
+    "dependencies": {
+         "express": "~4.14.0",
+         "body-parser": "~1.15.2",
+         "mongodb": "~2.0"
+    }
+}
